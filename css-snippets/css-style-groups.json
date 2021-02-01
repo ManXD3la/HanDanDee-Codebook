@@ -1,0 +1,187 @@
+// background, border, display
+{
+//  DIMENSIONS/ SIZING
+
+    "Basic Dimensions": {
+    "prefix": ["dim-b","dimbsc"],
+    "body": [
+        "width: ;
+        height: ;"
+    ],
+    "description": "width and height setting of element"
+    },
+
+    "Complete Dimensions": {
+    "prefix": ["dim-c", "dimcmp"],
+    "body": [
+        "width: ;
+        min-width: ;
+        max-width: ;
+        
+        height: ;
+        min-height: ;
+        max-hieght: ;
+    
+        overflow: ;
+        object-fit: ;
+        object-position: ;"
+    ],
+    "description": "min, max of width and height setting of element"
+    },
+
+//  SPACING
+
+    "Basic Spacing": {
+    "prefix": ["spc-b","spcbsc"],
+    "body": [
+        "margin: ;
+        padding: ;"
+    ],
+    "description": "margin and padding setting of element"
+    },
+
+
+    "Complete Spacing": {
+    "prefix": ["spc-c","spccmp"],
+    "body": [
+        "margin-top: ;
+        margin-right: ;
+        margin-bottom: ;
+        margin-left: ;
+    
+        padding-top: ;
+        padding-right: ;
+        padding-bottom: ;
+        padding-left: ;"
+    ],
+    "description": "explicit margin and padding setting of element"
+    },
+
+//  POSITIONING
+
+    "Basic Positioning": {
+        "prefix": ["psn-b","psnbsc"],
+        "body": [
+            "z-index: ;
+            
+            position: ;
+            top: ;
+            right: ;
+            bottom: ;
+            left: ;"
+        ],
+        "description": "non static position setting of element"
+        },
+
+//  TYPOGRAPHY
+
+    "Basic Typography": {
+        "prefix": ["typ-b","typbsc"],
+        "body": [
+            "font-family: ;
+            font-size: ;
+            font-weight: ;
+            font-style: ;
+            text-decoration: ;
+        
+            color: ;
+            text-align: ;
+            line-height: ;
+            text-transform: ;
+            letter-spacing: ;"
+        ],
+        "description": "font and format setting of typography for element"
+        },
+
+    "Font Typography": {
+        "prefix": ["typ-f","typfnt"],
+        "body": [
+            "font-family: ;
+            font-size: ;
+            font-weight: ;
+            font-style: ;
+            text-decoration: ;"
+        ],
+        "description": "font setting of typography for element"
+        },
+
+    "Formatting Typography": {
+        "prefix": ["typ-fm","typfmt"],
+        "body": [
+            "color: ;
+            text-align: ;
+            line-height: ;
+            text-transform: ;
+            letter-spacing: ;"
+        ],
+        "description": "formatting of typography for element"
+        },
+
+    "Add'l Formatting Typography": {
+        "prefix": ["typ-afm","typafmt"],
+        "body": [
+            "text-indent: ;
+            line-break: ;
+            direction: ;
+            text-orientation: ;
+            column-count: ;"
+        ],
+        "description": "Additional formatting of typography for element"
+        },
+
+    "Complete Typography": {
+        "prefix": ["typ-c","typcmp"],
+        "body": [
+            "font-family: ;
+            font-size: ;
+            font-weight: ;
+            font-style: ;
+            text-decoration: ;
+        
+            color: ;
+            text-align: ;
+            line-height: ;
+            text-transform: ;
+            letter-spacing: ;
+        
+            text-indent: ;
+            line-break: ;
+            direction: ;
+            text-orientation: ;
+            column-count: ;"
+        ],
+        "description": "Setting of typography for element"
+        },
+
+    "Basic Font-Face Rule": {
+        "prefix": ["fnt-b","fntbsc"],
+        "body": [
+            "@font-face {
+                name: ;
+                src: ;
+            }"
+        ],
+        "description": "Rule setting for defining/importing fonts"
+        },
+
+    "Complete Font-Face Rule": {
+        "prefix": ["fnt-c","fntcmp"],
+        "body": [
+            "@font-face {
+                name: ;
+                src: ;
+            
+                font-weight: ;
+                font-style: ;
+                font-stretch: ;
+                unicode-range: ;
+            }"
+        ],
+        "description": "Rule setting for defining/importing fonts"
+        },
+
+//  BACKGROUND
+//  ANIMATION
+//  EFFECTS
+//  LAYOUT GRID
+//  LAOUT FLEX

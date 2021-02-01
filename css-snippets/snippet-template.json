@@ -1,0 +1,8 @@
+{
+    "Snippet Name": {
+    "scope": ["language1", "language2"],
+    "prefix": ["snip", "snipnm"],
+    "body": ["here is where you write the actual code (const ${2:element} of ${1:array}) {", "\t$0", "}"],
+    "description": "Description displayed about snippet"
+    }
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets>
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title></Title>
+            <Author></Author>
+            <Description></Description>
+            <SnippetTypes></SnippetTypes>
+            <Keywords></Keywords>
+            <Shortcut></Shortcut>
+        </Header>
+        <Snippet>
+            <References></References>
+            <Imports></Imports>
+            <Declarations>
+                <Literal></Literal>
+                <Object></Object>
+            </Declarations>
+            <Code Language="">
+                <![CDATA[]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>

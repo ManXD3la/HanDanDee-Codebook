@@ -1,0 +1,54 @@
+/* Use '|:|' to find sections  */
+
+/* |:| FORMAT  */
+
+element .class-name
+element .class-name:pseudo
+
+/* |:| HEADER */
+
+/* NAV */
+
+/* |:| MAIN + PRIMARY SECTIONS */
+
+main element.section-name
+
+/* |:| FOOTER */
+
+footer element.section-name
+
+/* |:| DEVICE BREAKPOINTS */
+
+
+/* Mobile Landscape */
+@media only screen
+and (min-width : 321px) {
+
+}
+
+/* Tablet */
+@media only screen
+and (min-device-width : 768px)
+and (min-device-height : 1024px) {
+
+}
+ 
+/* Tablet Landscape */
+@media only screen
+and (min-device-width : 1024px)
+and (min-device-height : 768px) {
+
+}
+
+
+/* Desktops and laptops */
+@media only screen
+and (min-width : 1224px) {
+
+}
+ 
+/* Large screens */
+@media only screen
+and (min-width : 1824px) {
+
+}

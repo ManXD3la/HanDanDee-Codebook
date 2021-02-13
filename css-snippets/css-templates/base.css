@@ -1,0 +1,182 @@
+/* Use '|:|' to find sections  */
+
+    /* |:| STYLE RESET  */
+
+*,*::before,*::after {
+
+}
+
+html, body, header, footer, main, div, span, object, embed, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, q, pre, a, address, cite, code, img, ins, input, sub, sup, var, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, article, aside, canvas, details, embed, figure, figcaption, menu, nav, output, section, summary, time, mark, audio, video {
+
+}
+
+    /* |:| CONTENT SECTIONS */
+
+body {
+
+}
+
+header {
+
+}
+
+nav {
+
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+section {
+
+}
+
+
+    /* |:| TEXT */
+a {
+
+}
+
+br {
+
+}
+
+h1 {
+
+}
+h2 {
+
+}
+
+h3 {
+
+}
+
+p {
+
+}
+
+li {
+
+}
+ul {
+
+}
+
+ol {
+
+}
+
+cite {
+
+}
+code {
+
+}
+
+    /* |:| FORMS */
+
+button {
+
+}
+
+form {
+
+}
+
+input {
+
+}
+
+fieldset {
+
+}
+
+legend {
+    
+}
+
+label {
+
+}
+
+output {
+
+}
+
+select {
+
+}
+
+option {
+
+}
+
+    /* |:| MEDIA */
+
+img {
+
+}
+
+video {
+
+}
+
+map {
+
+}
+
+    /* |:| EMBED */
+
+embed {
+
+}
+
+iframe {
+
+}
+
+object {
+
+}
+
+    /* |:| DEVICE BREAKPOINTS */
+
+
+/* Mobile Landscape */
+@media only screen
+and (min-width : 321px) {
+
+}
+
+/* Tablet */
+@media only screen
+and (min-device-width : 768px)
+and (min-device-height : 1024px) {
+
+}
+ 
+/* Tablet Landscape */
+@media only screen
+and (min-device-width : 1024px)
+and (min-device-height : 768px) {
+
+}
+
+
+/* Desktops and laptops */
+@media only screen
+and (min-width : 1224px) {
+
+}
+ 
+/* Large screens */
+@media only screen
+and (min-width : 1824px) {
+
+}
